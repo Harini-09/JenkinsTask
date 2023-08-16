@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
 @AllArgsConstructor
-@EqualsAndHashCode
+@Data
 @Entity
 public class Associate {
 
