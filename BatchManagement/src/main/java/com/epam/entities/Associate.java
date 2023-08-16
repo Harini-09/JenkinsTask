@@ -9,8 +9,8 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.ManyToOne;
 import lombok.AllArgsConstructor;
-import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
+import lombok.Data;
 
 @NoArgsConstructor
 @AllArgsConstructor
